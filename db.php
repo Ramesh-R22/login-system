@@ -1,6 +1,6 @@
 <?php
 // db.php
-$dsn = 'pgsql:host=localhost;port=5432;dbname=mydb';
+$dsn = 'pgsql:host=localhost;port=5432;dbname=db';
 $username = 'postgres';
 $password = 'postgres';
 
